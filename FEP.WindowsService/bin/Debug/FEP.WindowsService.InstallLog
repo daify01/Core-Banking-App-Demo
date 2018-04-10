@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.InstallLog
+   assemblypath = C:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.exe
+Installing service FEPService...
+Service FEPService has been successfully installed.
+Creating EventLog source FEPService in log Application...
+Committing assembly 'C:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.InstallLog
+   assemblypath = C:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.exe

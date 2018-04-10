@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  
+  <siteMapNode url="~/Start/Default.aspx" title="Home" description="Home">
+    
+    <siteMapNode title="Manage Branches" url="~/ManageBranches/Default.aspx" description="ManageBranches" resourceKey="fa-cubes" roles="*" > 
+      <siteMapNode url="~/ManageBranches/AddNewBranch.aspx" title="Add New Branch" description="Makes adding users possible" resourceKey="fa-circle-o" roles="Admin" />
+      <siteMapNode url="~/ManageBranches/ViewAllBranches.aspx" title="View All Branches" description="Allows to edit user information." resourceKey="fa-circle-o" roles="*"/>
+    </siteMapNode>
+    
+    <siteMapNode title="Manage Users" url="~/ManageUsers/Default.aspx" description="ManageUsers" resourceKey="fa-venus-double" roles="*" > 
+      <siteMapNode url="~/ManageUsers/AddNewUser.aspx" title="Add New Users" description="Makes adding users possible" resourceKey="fa-circle-o" roles="Admin" />
+      <siteMapNode url="~/ManageUsers/ChangeUserPassword.aspx" title="Change Password"  description="Changes the User Password" resourceKey="fa-circle-o" roles="*" />
+      <!--<siteMapNode url="~/ManageUsers/Login.aspx" title="login" description="Allows to login." resourceKey="fa-circle-o" roles="Admin" />-->
+      <siteMapNode url="~/ManageUsers/ViewListOfUsers.aspx" title="View All Users" description="Allows to see all available users." resourceKey="fa-circle-o" roles="Admin" />
+    </siteMapNode>
+    
+    
+   <siteMapNode title="Manage Tellers" url="~/ManageTellers/Default.aspx" description="ManageTellers" resourceKey="fa-leanpub" roles="*"> 
+      <siteMapNode url="~/ManageTellers/AssignTillToUser.aspx" title="Add Till to User" description="Makes adding users possible" resourceKey="fa-circle-o" roles="Admin" />
+      <siteMapNode url="~/ManageTellers/ViewListOfTellers.aspx" title="View List of Tellers"  description="Changes the User Password" resourceKey="fa-circle-o" roles ="*" />
+    </siteMapNode>
+    
+   <siteMapNode title="Manage Customers" url="~/ManageCustomers/Default.aspx" description="ManageUsers" resourceKey="fa-users" roles="*"> 
+      <siteMapNode url="~/ManageCustomers/AddNewCustomer.aspx" title="Add New Customer" description="Makes adding users possible" resourceKey="fa-circle-o" roles="*" />
+      <siteMapNode url="~/ManageCustomers/ViewAllCustomers.aspx" title="View Customer Info" description="Allows to edit user information." resourceKey="fa-circle-o" roles="*" />
+    </siteMapNode>
+
+ <siteMapNode title="Manage Customer A/C" url="~/ManageCustomerAcct/Default.aspx" description="ManageUsers" resourceKey="fa-book" roles ="*"> 
+      <siteMapNode url="~/ManageCustomerAcct/AddNewCustomerAcct.aspx" title="Add New Customer A/C" description="Makes adding users possible" resourceKey="fa-circle-o" roles="*" />
+      <!--<siteMapNode url="~/ManageCustomerAcct/EditCustomerAcct.aspx" title="Edit Customer A/C"  description="Changes the User Password" resourceKey="fa-circle-o" />-->
+    <siteMapNode url="~/ManageCustomerAcct/AddLoanAcct.aspx" title="Add Loan A/C"  description="Changes the User Password" resourceKey="fa-circle-o" roles="*" />
+      <siteMapNode url="~/ManageCustomerAcct/ViewLoanAccounts.aspx" title="View Loan A/C" description="Allows to edit user information." resourceKey="fa-circle-o" roles="*" />
+      <siteMapNode url="~/ManageCustomerAcct/ViewAllCustomerAcct.aspx" title="View All Customer A/C" description="Allows to login." resourceKey="fa-circle-o" roles="*" />
+    </siteMapNode>
+
+ <siteMapNode title="Manage Savings A/C" url="~/ManageSavingsAcct/Default.aspx" description="ManageUsers" resourceKey="fa-archive" roles="Admin"> 
+      <siteMapNode url="~/ManageSavingsAcct/EditAcctConfig.aspx" title="Edit A/C Config" description="Makes adding users possible" resourceKey="fa-circle-o" roles="*" />
+    </siteMapNode>
+
+ <siteMapNode title="Manage Current A/C" url="~/ManageCurrentAcct/Default.aspx" description="ManageUsers" resourceKey="fa-trello" roles="Admin"> 
+      <siteMapNode url="~/ManageCurrentAcct/EditAcctConfig.aspx" title="Edit A/C Config" description="Makes adding users possible" resourceKey="fa-circle-o" roles="*" />
+    </siteMapNode>
+
+  <siteMapNode title="Manage Loan A/C" url="~/ManageLoanAcct/Default.aspx" description="ManageUsers" resourceKey="fa-credit-card" roles="Admin"> 
+      <siteMapNode url="~/ManageLoanAcct/EditAcctConfig.aspx" title="Edit A/C Config" description="Makes adding users possible" resourceKey="fa-circle-o" roles="*" />
+    </siteMapNode>
+
+ <siteMapNode title="GL Category Mgt" url="~/GlCategoryMgt/Default.aspx" description="ManageUsers" resourceKey="fa-list-ol" roles="*"> 
+      <siteMapNode url="~/GlCategoryMgt/AddNewGlCategory.aspx" title="Add New GL Category" description="Makes adding users possible" resourceKey="fa-circle-o" roles="Admin" />
+      <siteMapNode url="~/GlCategoryMgt/ViewExistingGlCategory.aspx" title="View Existing Gl Category" description="Allows to edit user information." resourceKey="fa-circle-o" roles="*" />
+    </siteMapNode>
+
+ <siteMapNode title="GL Account Mgt" url="~/GlAccountMgt/Default.aspx" description="ManageUsers" resourceKey="fa-list-alt" roles="*"> 
+      <siteMapNode url="~/GlAccountMgt/AddNewGlAccount.aspx" title="Add New GL Acct" description="Makes adding users possible" resourceKey="fa-circle-o" roles="Admin" />
+      <siteMapNode url="~/GlAccountMgt/ViewExistingGlAccount.aspx" title="View Existing Gl Acct" description="Allows to edit user information." resourceKey="fa-circle-o" roles="*" />
+    </siteMapNode>
+
+ <siteMapNode title="GL Posting Mgt" url="~/GlPostingMgt/Default.aspx" description="ManageUsers" resourceKey="fa-indent" roles="Admin"> 
+      <siteMapNode url="~/GlPostingMgt/PostTransactionsIntoGLs.aspx" title="Post Transactions" description="Makes adding users possible" resourceKey="fa-circle-o" roles="*" />
+      <siteMapNode url="~/GlPostingMgt/ViewAllGLPostings.aspx" title="View All GL Postings"  description="Changes the User Password" resourceKey="fa-circle-o" roles="*" />
+    </siteMapNode>
+
+<siteMapNode title="Teller Posting Mgt" url="~/TellerPostingMgt/Default.aspx" description="ManageUsers" resourceKey="fa-indent" roles="*"> 
+      <siteMapNode url="~/TellerPostingMgt/PostTransactionsIntoCustomerAcct.aspx" title="Post Transactions into Customer A/C" description="Makes adding users possible" resourceKey="fa-circle-o" roles="*" />
+      <siteMapNode url="~/TellerPostingMgt/ViewAllTellerPostings.aspx" title="View All Teller Postings"  description="Changes the User Password" resourceKey="fa-circle-o" roles="*"  />
+    </siteMapNode>
+
+ <siteMapNode title="Financial Reports Mgt" url="~/FinancialRepMgt/Default.aspx" description="ManageUsers" resourceKey="fa-th-list" roles="*" > 
+      <siteMapNode url="~/FinancialRepMgt/GenViewPL.aspx" title="P and L" description="Makes adding users possible" resourceKey="fa-circle-o" roles="*" />
+      <siteMapNode url="~/FinancialRepMgt/GenViewBalSheet.aspx" title="Balance Sheet"  description="Changes the User Password" resourceKey="fa-circle-o" roles="*" />
+      <siteMapNode url="~/FinancialRepMgt/TrialBalance.aspx" title="Trial Balance" description="Allows to edit user information." resourceKey="fa-circle-o" roles="*" />
+    </siteMapNode>
+
+ <siteMapNode title="EOD Process" url="~/EODProcess/Default.aspx" description="ManageUsers" resourceKey="fa-chain" roles="Admin" > 
+      <siteMapNode url="~/EODProcess/RunEOD.aspx" title="Run EOD" description="Makes adding users possible" resourceKey="fa-circle-o" roles="Admin" />
+    </siteMapNode>
+  
+    <!--<siteMapNode title="On-Us Withdrawals" url="~/OnUsWithdrawalSetup/" description="On Us Withdrawal" resourceKey="fa-chain" roles="*" > 
+      <siteMapNode url="~/OnUsWithdrawalSetup/AddATMTerminal.aspx" title="Add ATM Terminal" description="Makes adding users possible" resourceKey="fa-circle-o" roles="*" />
+      <siteMapNode url="~/OnUsWithdrawalSetup/ViewATMTerminals.aspx" title="View ATM Terminal" description="Allows to edit user information." resourceKey="fa-circle-o" roles="*" />
+    </siteMapNode>-->
+  
+  </siteMapNode>
+</siteMap>

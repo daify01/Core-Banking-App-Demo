@@ -1,0 +1,118 @@
+4/18/2016 3:35:55 PM: FEP service has started
+4/18/2016 6:20:40 PM: FEP service has started
+4/18/2016 6:21:18 PM: One or more errors occurred.; at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at FEP.WindowsService.APIinstantiator.IsMyTerminal(String myterminal) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\APIinstantiator.cs:line 312
+   at FEP.WindowsService.CheckSourceNode.IsTerminal(Iso8583Message MessageWithSourceNodeDetails) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\CheckSourceNode.cs:line 103
+   at FEP.WindowsService.CheckSourceNode.SourceNode(Iso8583Message message) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\CheckSourceNode.cs:line 35
+   at FEP.WindowsService.InstantiateListenerPeer.Listener_Receive(Object sender, ReceiveEventArgs e) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\InstantiateListenerPeer.cs:line 62
+4/18/2016 6:56:28 PM: FEP service has started
+4/19/2016 7:22:24 PM: FEP service has started
+4/19/2016 7:40:02 PM: FEP service has started
+4/20/2016 5:52:41 PM: FEP service has started
+4/21/2016 3:12:27 PM: FEP service has started
+4/21/2016 3:15:24 PM: FEP service has started
+4/21/2016 4:14:55 PM: FEP service has started
+4/21/2016 4:15:22 PM: FEP service has started
+4/21/2016 5:15:01 PM: FEP service has started
+4/21/2016 5:26:31 PM: FEP service has started
+4/21/2016 6:04:19 PM: FEP service has started
+4/21/2016 6:17:17 PM: FEP service has started
+4/21/2016 6:46:21 PM: FEP service has started
+4/21/2016 6:57:11 PM: FEP service has started
+4/21/2016 7:11:04 PM: FEP service has started
+4/22/2016 8:40:12 AM: FEP service has started
+4/22/2016 8:40:58 AM: One or more errors occurred.; at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at FEP.WindowsService.APIinstantiator.GetCustomerAccountsByCategory(String Accountnumber) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\APIinstantiator.cs:line 30
+   at FEP.WindowsService.CheckSourceNode.IsAccountNumberValid(Iso8583Message message) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\CheckSourceNode.cs:line 135
+   at FEP.WindowsService.CheckSourceNode.SourceNode(Iso8583Message message) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\CheckSourceNode.cs:line 35
+   at FEP.WindowsService.InstantiateListenerPeer.Listener_Receive(Object sender, ReceiveEventArgs e) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\InstantiateListenerPeer.cs:line 62
+4/22/2016 8:50:32 AM: FEP service has started
+4/22/2016 8:54:58 AM: FEP service has started
+4/22/2016 8:58:16 AM: FEP service has started
+4/22/2016 9:15:55 AM: Can't set MTI as response because message isn't a request.; at Trx.Messaging.Iso8583.Iso8583Message.SetResponseMessageTypeIdentifier()
+   at FEP.WindowsService.CheckSourceNode.SourceNode(Iso8583Message message) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\CheckSourceNode.cs:line 23
+   at FEP.WindowsService.InstantiateListenerPeer.Listener_Receive(Object sender, ReceiveEventArgs e) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\InstantiateListenerPeer.cs:line 62
+4/22/2016 9:18:16 AM: FEP service has started
+4/22/2016 9:18:26 AM: Can't set MTI as response because message isn't a request.; at Trx.Messaging.Iso8583.Iso8583Message.SetResponseMessageTypeIdentifier()
+   at FEP.WindowsService.CheckSourceNode.SourceNode(Iso8583Message message) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\CheckSourceNode.cs:line 23
+   at FEP.WindowsService.InstantiateListenerPeer.Listener_Receive(Object sender, ReceiveEventArgs e) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\InstantiateListenerPeer.cs:line 62
+4/22/2016 9:24:33 AM: FEP service has started
+4/22/2016 9:26:58 AM: FEP service has started
+4/22/2016 9:28:00 AM: FEP service has started
+4/22/2016 9:28:39 AM: FEP service has started
+4/22/2016 9:30:54 AM: FEP service has started
+4/22/2016 9:33:15 AM: Can't set MTI as response because message isn't a request.; at Trx.Messaging.Iso8583.Iso8583Message.SetResponseMessageTypeIdentifier()
+   at FEP.WindowsService.CheckSourceNode.SourceNode(Iso8583Message message) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\CheckSourceNode.cs:line 23
+   at FEP.WindowsService.InstantiateListenerPeer.Listener_Receive(Object sender, ReceiveEventArgs e) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\InstantiateListenerPeer.cs:line 62
+4/22/2016 9:35:08 AM: FEP service has started
+4/22/2016 9:36:03 AM: FEP service has started
+4/22/2016 9:38:19 AM: FEP service has started
+4/22/2016 9:52:43 AM: FEP service has started
+4/22/2016 10:05:37 AM: FEP service has started
+4/22/2016 10:18:02 AM: FEP service has started
+4/22/2016 11:47:14 AM: FEP service has started
+4/22/2016 5:57:50 PM: FEP service has started
+4/24/2016 4:33:19 PM: FEP service has started
+4/24/2016 4:34:10 PM: One or more errors occurred.; at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at FEP.WindowsService.APIinstantiator.GetCustomerAccountsByCategory(String Accountnumber) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\APIinstantiator.cs:line 30
+   at FEP.WindowsService.CheckSourceNode.IsAccountNumberValid(Iso8583Message message) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\CheckSourceNode.cs:line 135
+   at FEP.WindowsService.CheckSourceNode.SourceNode(Iso8583Message message) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\CheckSourceNode.cs:line 35
+   at FEP.WindowsService.InstantiateListenerPeer.Listener_Receive(Object sender, ReceiveEventArgs e) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\InstantiateListenerPeer.cs:line 62
+4/24/2016 4:41:48 PM: FEP service has started
+4/24/2016 4:51:27 PM: FEP service has started
+4/24/2016 4:52:21 PM: One or more errors occurred.; at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at FEP.WindowsService.APIinstantiator.GetCustomerAccountsByCategory(String Accountnumber) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\APIinstantiator.cs:line 30
+   at FEP.WindowsService.CheckSourceNode.IsAccountNumberValid(Iso8583Message message) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\CheckSourceNode.cs:line 135
+   at FEP.WindowsService.CheckSourceNode.SourceNode(Iso8583Message message) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\CheckSourceNode.cs:line 35
+   at FEP.WindowsService.InstantiateListenerPeer.Listener_Receive(Object sender, ReceiveEventArgs e) in c:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP.WindowsService\InstantiateListenerPeer.cs:line 62
+4/24/2016 5:02:12 PM: FEP service has started
+4/24/2016 5:08:38 PM: FEP service has started
+4/24/2016 5:24:16 PM: FEP service has started
+4/24/2016 5:28:18 PM: FEP service has started
+4/24/2016 5:42:49 PM: FEP service has started
+4/24/2016 5:46:01 PM: FEP service has started
+4/24/2016 5:51:22 PM: FEP service has started
+4/24/2016 5:52:59 PM: FEP service has started
+4/24/2016 6:29:50 PM: FEP service has started
+4/24/2016 6:32:00 PM: FEP service has started
+4/24/2016 6:36:26 PM: FEP service has started
+4/24/2016 6:41:10 PM: FEP service has started
+4/24/2016 6:45:56 PM: FEP service has started
+4/24/2016 6:59:02 PM: FEP service has started
+4/24/2016 7:00:36 PM: FEP service has started
+4/24/2016 7:05:18 PM: FEP service has started
+4/24/2016 7:10:02 PM: FEP service has started
+4/24/2016 7:12:38 PM: FEP service has started
+4/24/2016 7:17:05 PM: FEP service has started
+4/24/2016 7:19:01 PM: FEP service has started
+4/24/2016 7:24:25 PM: FEP service has started
+4/24/2016 7:27:47 PM: FEP service has started
+4/24/2016 7:41:18 PM: FEP service has started
+4/24/2016 8:05:17 PM: FEP service has started
+4/24/2016 8:12:42 PM: FEP service has started
+4/24/2016 8:14:38 PM: FEP service has started
+4/24/2016 8:19:14 PM: FEP service has started
+4/24/2016 8:23:19 PM: FEP service has started
+4/24/2016 8:30:45 PM: FEP service has started
+4/24/2016 8:35:27 PM: FEP service has started
+4/24/2016 8:47:08 PM: FEP service has started
+4/25/2016 6:01:08 AM: FEP service has started
+4/25/2016 6:04:36 AM: FEP service has started
+4/25/2016 6:09:07 AM: FEP service has started
+4/25/2016 6:13:40 AM: FEP service has started
+4/25/2016 6:15:28 AM: FEP service has started
+4/25/2016 6:19:59 AM: FEP service has started
+4/25/2016 6:21:29 AM: FEP service has started
+4/25/2016 6:24:24 AM: FEP service has started
+4/25/2016 6:31:03 AM: FEP service has started
+4/25/2016 6:34:55 AM: FEP service has started
+4/25/2016 6:39:33 AM: FEP service has started
+4/25/2016 6:45:12 AM: FEP service has started

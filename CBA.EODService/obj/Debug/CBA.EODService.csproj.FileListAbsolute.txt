@@ -1,0 +1,20 @@
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.EODService\bin\Debug\CBA.EODService.exe.config
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.EODService\bin\Debug\CBA.EODService.exe
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.EODService\bin\Debug\CBA.EODService.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.EODService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.EODService\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.EODService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.EODService\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.EODService\obj\Debug\CBA.EODService.csprojResolveAssemblyReference.cache
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.EODService\obj\Debug\CBA.EODService.exe
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.EODService\obj\Debug\CBA.EODService.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.EODService\bin\Debug\CBA.EODService.exe.config
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.EODService\bin\Debug\CBA.EODService.exe
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.EODService\bin\Debug\CBA.EODService.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.EODService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.EODService\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.EODService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.EODService\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.EODService\obj\Debug\CBA.EODService.csprojResolveAssemblyReference.cache
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.EODService\obj\Debug\CBA.EODService.exe
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.EODService\obj\Debug\CBA.EODService.pdb

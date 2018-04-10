@@ -1,0 +1,37 @@
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.exe.config
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.exe
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\CBAPractice.Core.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\CBAPractice.Data.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\log4net.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\Switch.Core.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\Trx.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\CBAPractice.Core.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\CBAPractice.Data.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\Switch.Core.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\obj\Debug\FEP.WindowsService.csprojResolveAssemblyReference.cache
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\obj\Debug\FEP.WindowsService.ProjectInstaller.resources
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\obj\Debug\FEP.WindowsService.csproj.GenerateResource.Cache
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\obj\Debug\FEP.WindowsService.exe
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP.WindowsService\obj\Debug\FEP.WindowsService.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.exe.config
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.exe
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\FEP.WindowsService.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\CBAPractice.Core.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\CBAPractice.Data.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\CBAPractice.Core.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\CBAPractice.Data.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\Switch.Core.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\obj\Debug\FEP.WindowsService.csprojResolveAssemblyReference.cache
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\obj\Debug\FEP.WindowsService.ProjectInstaller.resources
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\obj\Debug\FEP.WindowsService.csproj.GenerateResource.Cache
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\obj\Debug\FEP.WindowsService.exe
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP.WindowsService\obj\Debug\FEP.WindowsService.pdb

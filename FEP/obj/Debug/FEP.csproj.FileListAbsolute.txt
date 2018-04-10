@@ -1,0 +1,65 @@
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\FEP.exe.config
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\FEP.exe
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\FEP.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\CBA.Data.NHibernate.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\CBA.DependencyInitializer.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\CBAPractice.Core.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\CBAPractice.Data.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\CBAPractice.Logic.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\Switch.Core.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\Trx.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\FluentNHibernate.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\NHibernate.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\CuttingEdge.ServiceLocation.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\log4net.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\Iesi.Collections.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\CBA.Data.NHibernate.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\CBA.DependencyInitializer.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\CBAPractice.Core.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\CBAPractice.Data.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\CBAPractice.Logic.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\Switch.Core.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\obj\Debug\FEP.csprojResolveAssemblyReference.cache
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\obj\Debug\FEP.exe
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\FEP\obj\Debug\FEP.pdb
+C:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP\bin\Debug\FEP.exe.manifest
+C:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP\bin\Debug\FEP.application
+C:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP\obj\Debug\FEP.TrustInfo.xml
+C:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP\obj\Debug\FEP.exe.manifest
+C:\Users\Sope Ogundipe\Documents\Visual Studio 2012\Projects\CBAPractice\FEP\obj\Debug\FEP.application
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\FEP.exe.config
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\FEP.exe.manifest
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\FEP.application
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\FEP.exe
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\FEP.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\CBA.Data.NHibernate.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\CBA.DependencyInitializer.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\CBAPractice.Core.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\CBAPractice.Data.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\CBAPractice.Logic.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\NHibernate.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\FluentNHibernate.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\CuttingEdge.ServiceLocation.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\log4net.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\Iesi.Collections.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\CBA.Data.NHibernate.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\CBA.DependencyInitializer.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\CBAPractice.Core.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\CBAPractice.Data.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\CBAPractice.Logic.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\Switch.Core.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\obj\Debug\FEP.csprojResolveAssemblyReference.cache
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\obj\Debug\FEP.TrustInfo.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\obj\Debug\FEP.exe.manifest
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\obj\Debug\FEP.application
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\obj\Debug\FEP.exe
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\FEP\obj\Debug\FEP.pdb

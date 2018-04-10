@@ -1,0 +1,22 @@
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBAPractice.Data\bin\Debug\CBAPractice.Data.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBAPractice.Data\bin\Debug\CBAPractice.Data.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBAPractice.Data\bin\Debug\CBAPractice.Core.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBAPractice.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBAPractice.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBAPractice.Data\bin\Debug\CBAPractice.Core.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBAPractice.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBAPractice.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBAPractice.Data\obj\Debug\CBAPractice.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBAPractice.Data\obj\Debug\CBAPractice.Data.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBAPractice.Data\obj\Debug\CBAPractice.Data.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBAPractice.Data\bin\Debug\CBAPractice.Data.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBAPractice.Data\bin\Debug\CBAPractice.Data.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBAPractice.Data\bin\Debug\CBAPractice.Core.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBAPractice.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBAPractice.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBAPractice.Data\bin\Debug\CBAPractice.Core.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBAPractice.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBAPractice.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBAPractice.Data\obj\Debug\CBAPractice.Data.csprojResolveAssemblyReference.cache
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBAPractice.Data\obj\Debug\CBAPractice.Data.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBAPractice.Data\obj\Debug\CBAPractice.Data.pdb

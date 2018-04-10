@@ -1,0 +1,17 @@
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.Data.ADO.Net\bin\Debug\CBA.Data.ADO.Net.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.Data.ADO.Net\bin\Debug\CBA.Data.ADO.Net.pdb
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.Data.ADO.Net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.Data.ADO.Net\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.Data.ADO.Net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.Data.ADO.Net\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.Data.ADO.Net\obj\Debug\CBA.Data.ADO.Net.dll
+C:\Users\Sope Ogundipe\documents\visual studio 2012\Projects\CBAPractice\CBA.Data.ADO.Net\obj\Debug\CBA.Data.ADO.Net.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.Data.ADO.Net\bin\Debug\CBA.Data.ADO.Net.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.Data.ADO.Net\bin\Debug\CBA.Data.ADO.Net.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.Data.ADO.Net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.Data.ADO.Net\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.Data.ADO.Net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.Data.ADO.Net\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.Data.ADO.Net\obj\Debug\CBA.Data.ADO.Net.csprojResolveAssemblyReference.cache
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.Data.ADO.Net\obj\Debug\CBA.Data.ADO.Net.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CBAPractice\CBAPractice\CBA.Data.ADO.Net\obj\Debug\CBA.Data.ADO.Net.pdb
